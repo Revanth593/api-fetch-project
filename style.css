@@ -1,0 +1,25 @@
+.container {
+  border-style: solid;
+  height: auto;
+  width: auto;
+  border-width: 5px;
+  padding: 0;
+}
+
+.heading {
+  height: 50px;
+  padding: 10px;
+}
+
+#contain {
+  display: flex;
+  gap: 15px !important;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 25px;
+}
+
+.card-body {
+  width: 300px !important;
+  text-align: start;
+}
